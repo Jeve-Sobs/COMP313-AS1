@@ -18,3 +18,9 @@ The most interesting part of my game is the graphics. I put a lot of time into m
 
 Reflection on learning
 I really enjoyed this assignment because it was a great way to improve a wide range of skills and I found that if I got bored working on something I could just work on something completely different tand come back to it. This was great when I got bored of programming I would just work on the map design or UI design. Even though I put countless hours into this assignment I feel like I have barely scratched the surface on Unreal Engines capabilities and there's so much more I want to learn. 
+
+Background
+My game was inspired by wave based games such as Call of Duty zombies. This category of games have power ups, new weapons and other mechanics such as building. I planned on adding some of these into my game but I didn’t have time in the end.
+
+Variations
+You can change the number of rounds the game will be until you win in the settings menu 
